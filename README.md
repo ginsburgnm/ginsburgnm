@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Noah. I work as a [HPC Cyber Security Engineer](https://www.linkedin.com/in/noah-ginsburg-24b3b713b/) at the [Oak Ridge Leadership Computing Facility](https://www.olcf.ornl.gov/).
+I'm Noah. I work as a [HPC Cyber Security Engineer](https://www.linkedin.com/in/noah-ginsburg-24b3b713b/) 
 
 <!--
 **ginsburgnm/ginsburgnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
